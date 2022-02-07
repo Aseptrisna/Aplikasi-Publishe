@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "4O6Cr7xlLzlp+uQCCsgEixMjFDfvHplOQU5sTJw3jODhdR1Hm9lAjKicM3L+QtBx6b2ilz6G8QUzhI1FHAD3cA==",
+  "success": true,
+  "projectFilePath": "D:\\23221111\\Data S2\\Semester 2\\Desain aplikasi interaktif\\Publisher-cmd\\Publisher-cmd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\aspnetcore.healthchecks.rabbitmq\\6.0.1\\aspnetcore.healthchecks.rabbitmq.6.0.1.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\fsharpent.common\\0.1.39\\fsharpent.common.0.1.39.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\fsharpent.rabbitmq\\0.1.60\\fsharpent.rabbitmq.0.1.60.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\6.0.0\\microsoft.extensions.diagnostics.healthchecks.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\6.0.0\\microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\newtonsoft.json\\4.5.9\\newtonsoft.json.4.5.9.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asep Trisna Setiawan\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FSharpEnt.Common 0.1.39' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FSharpEnt.Common",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FSharpEnt.RabbitMq 0.1.60' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FSharpEnt.RabbitMq",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 4.5.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
